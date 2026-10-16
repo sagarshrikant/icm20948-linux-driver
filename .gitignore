@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.dtbo
+modules.order
+Module.symvers
+.tmp_versions/
+tools/checkpatch/
+userspace/build/
